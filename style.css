@@ -1,5 +1,5 @@
 body {
-    background-image: url(24.jpg);
+    
     background-size: 100%;
     font-family: 'Poppins', sans-serif;
     background-color: beige;
@@ -9,7 +9,7 @@ body {
 .head{
     display: flex;
     
-    margin: 15px 220px;
+    margin: 15px 310px;
     height: 50%;
     width: 50%;
     
