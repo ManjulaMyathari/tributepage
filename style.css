@@ -1,0 +1,29 @@
+body {
+    background-image: url(24.jpg);
+    background-size: 100%;
+    font-family: 'Poppins', sans-serif;
+    background-color:beige;
+    margin: 0;
+    padding: 0;
+}
+.head{
+    display: flex;
+    margin: 15px 0px;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+.nav-bar{
+    margin: 10px 10px;
+    height: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size: 1rem;
+}
+.des{
+    text-align: center;
+    text-decoration: dashed;
+   color: brown;
+}
